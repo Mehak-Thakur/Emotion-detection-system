@@ -2,6 +2,8 @@
 
 Deep Learning based Facial Emotion Recognition using ConvNeXtV2.
 
+## Streamlit Deployment link: https://emotion-detection-system-mehak.streamlit.app/
+
 ## Dataset
 RAF-DB
 
